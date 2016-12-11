@@ -1,4 +1,4 @@
-package com.kirillov.logic;
+package com.kirillov.service;
 
 /**
  * Created by alvad89 on 10.12.16.

@@ -1,6 +1,6 @@
-package com.kirillov.logic.impl;
+package com.kirillov.service.impl;
 
-import com.kirillov.logic.DebitService;
+import com.kirillov.service.DebitService;
 
 /**
  * Created by alvad89 on 10.12.16.
